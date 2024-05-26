@@ -17,17 +17,17 @@
 * Used Power Query Editor to cleanse, transform, and structure the data, ensuring data quality and consistency.
 * Addressed missing values, corrected data types, and created necessary attributes for comprehensive analysis.
 ### Interactive Power BI Report:
-#### * Report Pages:
+#### Report Pages:
 * Page 1 (Home): Displays data of the organization.
 * Page 2 (Male): Displays data exclusively for male employees.
 * Page 3 (Female): Displays data exclusively for female employees.
-#### * Slicers: 
+#### Slicers: 
 * Integrated four slicers for dynamic filtering using dimensional tables:
 * Department
 * Unit
 * Country
 * City
-#### * Visuals:
+* #### Visuals:
 * **Card:**  Showcases overall annual salary, minimum salary, and maximum salary.
 * **Bar Chart:**  Presents country and city-wise annual salary with drilldown capabilities.
 * **Pie Chart:**  Displays department-wise annual salary, filtered to show only employees aged above 37.
