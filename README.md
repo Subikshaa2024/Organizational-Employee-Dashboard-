@@ -25,10 +25,10 @@
 * Page 3 (Female): Displays data exclusively for female employees.
 ### Slicers: 
 * Integrated four slicers for dynamic filtering using dimensional tables:
-     Department
-     Unit
-     Country
-     City
+* Department
+* Unit
+* Country
+* City
 ### Visuals:
 #### Card: 
 * Showcases overall annual salary, minimum salary, and maximum salary.
@@ -41,7 +41,7 @@
 * Red if bonus % is 0.
 * Green if bonus % is above 0.
 #### Custom Tooltip: 
-*Implemented a custom tooltip for pie chart to provide additional context and insights when hovering over data points.
+* Implemented a custom tooltip for pie chart to provide additional context and insights when hovering over data points.
 #### Bookmarks and Navigation Buttons:
 * Created bookmark pages for each ethnicity.
 * Each bookmark page includes one visual of choice displaying relevant data and an image button to return to the main page.
