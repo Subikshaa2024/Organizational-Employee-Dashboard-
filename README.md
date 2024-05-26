@@ -31,9 +31,7 @@
 * **Card:**  Showcases overall annual salary, minimum salary, and maximum salary.
 * **Bar Chart:**  Presents country and city-wise annual salary with drilldown capabilities.
 * **Pie Chart:**  Displays department-wise annual salary, filtered to show only employees aged above 37.
-* **Matrix:** Shows the employee department, unit, country, city, annual salary, and bonus with conditional formatting:
-      Red if bonus % is 0.
-      Green if bonus % is above 0.
+* **Matrix:** Shows the employee department, unit, country, city, annual salary, and bonus with conditional formatting:* Red if bonus % is 0.* Green if bonus % is above 0.
 ### Custom Tooltip: 
 * Implemented a custom tooltip for pie chart to provide additional context and insights when hovering over data points.
 ### Bookmarks and Navigation Buttons:
