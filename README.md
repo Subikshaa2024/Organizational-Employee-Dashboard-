@@ -27,7 +27,7 @@
 * Unit
 * Country
 * City
-* #### Visuals:
+#### Visuals:
 * **Card:**  Showcases overall annual salary, minimum salary, and maximum salary.
 * **Bar Chart:**  Presents country and city-wise annual salary with drilldown capabilities.
 * **Pie Chart:**  Displays department-wise annual salary, filtered to show only employees aged above 37.
