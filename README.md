@@ -1,4 +1,4 @@
-# Organizatonal Employeee Dashboard
+# Organizational Employeee Dashboard
 ## Objective:
      Developed an end-to-end data analysis solution using Power BI to create an interactive and insightful dashboard. The goal was to transform the given organizational dataset into a well-structured data model and produce a visually appealing Power BI report that provides valuable insights into employee salary-related aspects, segmented by gender and ethnicity.
 ## Dataset Tables:
